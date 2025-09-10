@@ -1,0 +1,5 @@
+{
+  "name": "Linkbird UI Clone",
+  "description": "A frontend replication of the Linkbird.ai platform's Leads and Campaigns sections, built with React, TypeScript, and Tailwind CSS. This application demonstrates a modern, responsive UI with features like infinite scrolling tables and detailed side sheets, using mock data to simulate a backend.",
+  "requestFramePermissions": []
+}
